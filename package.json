@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "nodemon app"
   },
   "dependencies": {
     "bcryptjs": "*",
@@ -21,5 +21,21 @@
     "passport": "*",
     "passport-jwt": "*",
     "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.1",
+    "@types/body-parser": "^1.16.8",
+    "@types/cookie-parser": "^1.4.1",
+    "@types/cors": "^2.8.3",
+    "@types/debug": "0.0.30",
+    "@types/express": "^4.11.1",
+    "@types/helmet": "0.0.37",
+    "@types/jsonwebtoken": "^7.2.6",
+    "@types/mongoose": "^5.0.9",
+    "@types/morgan": "^1.7.35",
+    "@types/nodemailer": "^4.6.0",
+    "@types/passport": "^0.4.4",
+    "@types/passport-jwt": "^3.0.1",
+    "typescript": "^2.8.1"
   }
 }
