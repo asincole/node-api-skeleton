@@ -17,7 +17,7 @@
     "jsonwebtoken": "*",
     "mongoose": "*",
     "morgan": "~1.9.0",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.3.0",
     "passport": "*",
     "passport-jwt": "*",
     "serve-favicon": "~2.4.5"
