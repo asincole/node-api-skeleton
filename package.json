@@ -34,7 +34,7 @@
     "@types/mongoose": "^5.0.9",
     "@types/morgan": "^1.7.35",
     "@types/nodemailer": "^4.6.0",
-    "@types/passport": "^0.4.4",
+    "@types/passport": "^1.0.3",
     "@types/passport-jwt": "^3.0.1",
     "typescript": "^2.8.1"
   }
