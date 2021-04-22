@@ -12,7 +12,7 @@
     "cors": "*",
     "debug": "~2.6.9",
     "express": "~4.15.5",
-    "helmet": "^3.12.0",
+    "helmet": "^4.5.0",
     "jade": "~1.11.0",
     "jsonwebtoken": "*",
     "mongoose": "*",
